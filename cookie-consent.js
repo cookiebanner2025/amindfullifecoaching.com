@@ -186,8 +186,8 @@ geoConfig: {
         transition: 'all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1)',
         
        accept: {
-    background: '#08dafd !important',
-    color: '#ffffff !important',
+    background: '#FFD0D0 !important',
+    color: '#000000 !important',
     border: '1px solid #08dafd !important',
     hover: {
         background: '#08dafd !important',
@@ -239,7 +239,7 @@ geoConfig: {
         borderRadius: '50%',
         boxShadow: '0 6px 20px rgba(0, 0, 0, 0.2)',
         hover: {
-            background: '#27ae60',
+            background: '#FFD0D0',
             transform: 'translateY(-3px) scale(1.05)',
             boxShadow: '0 8px 25px rgba(0, 0, 0, 0.3)'
         }

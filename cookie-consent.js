@@ -188,9 +188,9 @@ geoConfig: {
        accept: {
     background: '#FFD0D0 !important',
     color: '#000000 !important',
-    border: '1px solid #08dafd !important',
+    // border: '1px solid #08dafd !important',
     hover: {
-        background: '#08dafd !important',
+        background: '#FFD0D0 !important',
         color: '#ffffff !important',
         transform: 'translateY(-1px) !important'
     }
@@ -233,7 +233,7 @@ geoConfig: {
     // Floating button styling
     floatingButtonStyle: {
         size: '50px',
-        background: '#2ecc71',
+        background: '#FFD0D0',
         iconColor: '#ffffff',
         border: '2px solid #ffffff',
         borderRadius: '50%',

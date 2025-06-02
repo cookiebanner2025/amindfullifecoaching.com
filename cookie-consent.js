@@ -191,7 +191,7 @@ geoConfig: {
     // border: '1px solid #08dafd !important',
     hover: {
         background: '#FFD0D0 !important',
-        color: '#ffffff !important',
+        color: '#000000 !important',
         transform: 'translateY(-1px) !important'
     }
         },
@@ -234,7 +234,7 @@ geoConfig: {
     floatingButtonStyle: {
         size: '50px',
         background: '#FFD0D0',
-        iconColor: '#ffffff',
+        iconColor: '#000000',
         border: '2px solid #ffffff',
         borderRadius: '50%',
         boxShadow: '0 6px 20px rgba(0, 0, 0, 0.2)',
